@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+outputs/*.mp4
+sample_videos/*.mp4
+yolov8n.pt
+*.log
+.env

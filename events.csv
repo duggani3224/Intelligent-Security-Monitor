@@ -1,0 +1,4 @@
+track_id,event,frame,timestamp_s,entry_time_s,exit_time_s,duration_s,status
+4,ENTRY,126,4.2,4.2,,,INSIDE
+4,EXIT,137,4.57,4.2,4.57,0.37,OUTSIDE
+7,ENTRY,276,9.2,9.2,,,INSIDE
